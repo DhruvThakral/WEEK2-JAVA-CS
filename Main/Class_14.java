@@ -1,3 +1,4 @@
+package Main;
 //                          Multiple Inheritance through interfaces
 
 interface M{

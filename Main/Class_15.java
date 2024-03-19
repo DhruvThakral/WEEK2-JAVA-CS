@@ -1,3 +1,4 @@
+package Main;
 class A{
     int x = 10; // default or package private 
     private int y = 15;
